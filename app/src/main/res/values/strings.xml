@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">RaceTrakr</string>
+    <!--    Universal Strings -->
+
+    <string name="tdy">Today</string>
+    <string name="upc">Upcoming</string>
+
+    <!--    F1 Strings -->
+    <string name="f1_series_title"><b>Formula 1</b></string>
+    <string name="f1_event_name"><b>Miami GP</b></string>
+
+    <string name="f1_timing1"><b>8:30 PM | May 3</b></string>
+    <string name="f1_session1">Free Practice 1 - Miami GP</string>
+
+    <string name="f1_timing2"><b>12:30 AM | May 4</b></string>
+    <string name="f1_session2">Sprint Shootout - Miami GP</string>
+
+    <string name="f1_timing3"><b>8:30 PM | May 4</b></string>
+    <string name="f1_session3">Sprint Race - Miami GP</string>
+
+    <string name="f1_timing4"><b>12:00 AM | May 5</b></string>
+    <string name="f1_session4">Qualifying - Miami GP</string>
+
+    <string name="f1_timing5"><b>12:00 AM | May 6</b></string>
+    <string name="f1_session5">Race - Miami GP</string>
+
+    <!--    Formula 2 -->
+    <string name="f2_series_title"><b>Formula 2</b></string>
+    <string name="f2_event_name"><b>Imola GP</b></string>
+
+    <string name="f2_timing1"><b>11:05 AM | May 17</b></string>
+    <string name="f2_session1">Free Practice - Imola GP</string>
+
+    <string name="f2_timing2"><b>4:00 PM | May 17</b></string>
+    <string name="f2_session2">Qualifying - Imola GP</string>
+
+    <string name="f2_timing3"><b>2:15 PM | May 18</b></string>
+    <string name="f2_session3">Sprint Race - Imola GP</string>
+
+    <string name="f2_timing4"><b>10:00 AM | May 19</b></string>
+    <string name="f2_session4">Feature Race - Imola GP</string>
+
+    <!--    Formula 3 -->
+    <string name="f3_series_title"><b>Formula 3</b></string>
+    <string name="f3_event_name"><b>Monaco GP</b></string>
+
+    <string name="f3_timing1"><b>1:10 PM | May 23</b></string>
+    <string name="f3_session1">Free Practice - Monaco GP</string>
+
+    <string name="f3_timing2"><b>12:30 AM | May 24</b></string>
+    <string name="f3_session2">Qualifying A - Monaco GP</string>
+
+    <string name="f3_timing3"><b>8:30 PM | May 24</b></string>
+    <string name="f3_session3">Qualifying B - Monaco GP</string>
+
+    <string name="f3_timing4"><b>12:00 AM | May 25</b></string>
+    <string name="f3_session4">Sprint Race - Monaco GP</string>
+
+    <string name="f3_timing5"><b>12:00 AM | May 26</b></string>
+    <string name="f3_session5">Feature Race - Monaco GP</string>
+
+    <!--    Formula E -->
+    <string name="fe_series_title"><b>Formula E</b></string>
+    <string name="fe_event_name"><b>Berlin E-Prix</b></string>
+
+    <string name="fe_timing1"><b>6:55 PM | May 10</b></string>
+    <string name="fe_session1">Free Practice 1 - Berlin E-Prix</string>
+
+    <string name="fe_timing2"><b>9:55 AM | May 11</b></string>
+    <string name="fe_session2">Free Practice 2 - Berlin E-Prix</string>
+
+    <string name="fe_timing3"><b>12:20 PM | May 11</b></string>
+    <string name="fe_session3">Qualifying - Berlin E-Prix</string>
+
+    <string name="fe_timing4"><b>5:03 PM | May 11</b></string>
+    <string name="fe_session4">Race - Berlin E-Prix</string>
+
+    <string name="fe_timing5"><b>9:55 AM | May 12</b></string>
+    <string name="fe_session5">Free Practice 3 - Berlin E-Prix</string>
+
+    <string name="fe_timing6"><b>12:20 PM | May 12</b></string>
+    <string name="fe_session6">Qualifying - Berlin E-Prix</string>
+
+    <string name="fe_timing7"><b>5:03 PM | May 12</b></string>
+    <string name="fe_session7">Race - Berlin E-Prix</string>
+
+    <!--    WEC -->
+    <string name="wec_series_title"><b>World Endurance Championship</b></string>
+    <string name="wec_event_name"><b>24 Hours of Le Mans</b></string>
+
+    <string name="wec_timing1"><b>4:00 PM | June 12</b></string>
+    <string name="wec_session1">Free Practice 1 - Le Mans</string>
+
+    <string name="wec_timing2"><b>9:30 PM | June 12</b></string>
+    <string name="wec_session2">Qualifying - Le Mans</string>
+
+    <string name="wec_timing3"><b>12:00 AM | June 13</b></string>
+    <string name="wec_session3">Free Practice 2  - Le Mans</string>
+
+    <string name="wec_timing4"><b>5:00 PM | June 13</b></string>
+    <string name="wec_session4">Free Practice 3 - Le Mans</string>
+
+    <string name="wec_timing5"><b>10:00 PM | June 13</b></string>
+    <string name="wec_session5">Hyperpole - Le Mans</string>
+
+    <string name="wec_timing6"><b>12:30 AM | June 14</b></string>
+    <string name="wec_session6">Free Practice 4 - Le Mans</string>
+
+    <string name="wec_timing7"><b>2:00 PM | June 15</b></string>
+    <string name="wec_session7">Warm-Up - Le Mans</string>
+
+    <string name="wec_timing8"><b>6:00 PM | June 15</b></string>
+    <string name="wec_session8">Race - Le Mans</string>
+
+    <!--    World Rallycross -->
+    <string name="wrx_series_title"><b>World Rallycross</b></string>
+    <string name="wrx_event_name"><b>Euro RX of France</b></string>
+
+    <string name="wrx_timing1"><b>TBA | June 8</b></string>
+    <string name="wrx_session1">TBA - Euro RX of France</string>
+
+    <string name="wrx_timing2"><b>TBA | June 9</b></string>
+    <string name="wrx_session2">TBA - Euro RX of France</string>
+
+    <!--    IndyCar -->
+    <string name="ic_series_title"><b>NTT IndyCar Series</b></string>
+    <string name="ic_event_name"><b>108th Running of the Indianapolis 500</b></string>
+
+    <string name="ic_timing1"><b>5:00 PM | May 14</b></string>
+    <string name="ic_session1">Practice 1 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing2"><b>9:00 PM | May 14</b></string>
+    <string name="ic_session2">Practice 2 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing3"><b>8:00 PM | May 15</b></string>
+    <string name="ic_session3">Practice 3 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing4"><b>8:00 PM | May 16</b></string>
+    <string name="ic_session4">Practice 4 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing5"><b>8:00 PM | May 17</b></string>
+    <string name="ic_session5">Practice 5 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing6"><b>4:30 PM | May 18</b></string>
+    <string name="ic_session6">Practice 6 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing7"><b>7:00 PM | May 18</b></string>
+    <string name="ic_session7">Qualifications - Day 1 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing8"><b>8:00 PM | May 19</b></string>
+    <string name="ic_session8">Practice 7 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing9"><b>11:00 PM | May 19</b></string>
+    <string name="ic_session9">Qualifications - Pole Day - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing10"><b>9:00 PM | May 20</b></string>
+    <string name="ic_session10">Practice 8 - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing11"><b>7:00 PM | May 24</b></string>
+    <string name="ic_session11">Carb Day Practice - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing12"><b>2:30 PM | May 24</b></string>
+    <string name="ic_session12">Pit Stop Competition - NTT INDYCAR SERIES</string>
+
+    <string name="ic_timing13"><b>7:00 PM | May 26</b></string>
+    <string name="ic_session13">Race - NTT INDYCAR SERIES</string>
+
+    <!--    NASCAR  -->
+    <string name="nscr_series_title"><b>NASCAR</b></string>
+    <string name="nscr_event_name"><b>Goodyear 400</b></string>
+
+    <string name="nscr_timing1"><b>9:15 PM | May 12</b></string>
+    <string name="nscr_session1">Press Pass - Goodyear 400</string>
+
+    <string name="nscr_timing2"><b>11:00 PM | May 12</b></string>
+    <string name="nscr_session2">Race - Goodyear 400</string>
+
+    <string name="nscr_timing3"><b>Post-NCS Race | May 12</b></string>
+    <string name="nscr_session3">Press Pass - Goodyear 400</string>
+
+
+</resources>
